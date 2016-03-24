@@ -1,0 +1,10 @@
+    #container{width:1150px;margin: 0 auto;background-color:#75DBD8}
+    #header {background-color:#75DBD8;}
+    #menu {height:2000px;width:150px;float:left;}
+    #content {height:2000px;width:1000px;float:left;text-align: center;}
+    #footer {background-color:#75DBD8;clear:both;text-align:center;}
+    h1 {margin-bottom:0;margin-top: -5px;text-align: center;}
+    h2 {margin-bottom:0;font-size:18px;}
+    ul {margin:0;}
+    li {list-style:none;}
+    table {text-align: center;}
